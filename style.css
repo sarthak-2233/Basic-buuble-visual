@@ -1,0 +1,19 @@
+#container{
+    width: 200px;
+    height: 320px;
+    display: flex;
+    align-items: flex-end;
+    
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bar{
+    margin: 4px;
+    width: 200px;
+    height: 200px;
+}
